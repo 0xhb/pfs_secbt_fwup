@@ -1,7 +1,5 @@
 # STM32F103C8T6 Secure Boot and Secure Firmware Update on STM32F103C8T6
 
-# STM32 Secure Bootloader Project
-
 ## Overview
 
 This project implements a secure bootloader for the STM32F103C8T6 microcontroller. The bootloader is designed to ensure that only authenticated and unaltered firmware is executed on the microcontroller, enhancing the security of the embedded system.
