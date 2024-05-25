@@ -23,8 +23,8 @@ This project implements a secure bootloader for the STM32F103C8T6 microcontrolle
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/yourusername/stm32-secure-bootloader.git
-cd stm32-secure-bootloader
+git clone https://github.com/0xhb/pfs_secbt_fwup.git
+cd pfs_secbt_fwup
 ```
 
 ### Building the Project
