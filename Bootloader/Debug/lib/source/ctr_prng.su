@@ -1,0 +1,6 @@
+../lib/source/ctr_prng.c:53:13:arrInc	0	static
+../lib/source/ctr_prng.c:74:13:tc_ctr_prng_update	72	static
+../lib/source/ctr_prng.c:117:5:tc_ctr_prng_init	104	static
+../lib/source/ctr_prng.c:164:5:tc_ctr_prng_reseed	88	static
+../lib/source/ctr_prng.c:205:5:tc_ctr_prng_generate	72	static
+../lib/source/ctr_prng.c:272:6:tc_ctr_prng_uninstantiate	8	static

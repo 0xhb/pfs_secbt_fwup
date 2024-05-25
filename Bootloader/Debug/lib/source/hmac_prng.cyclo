@@ -1,0 +1,4 @@
+../lib/source/hmac_prng.c:78:13:update	9
+../lib/source/hmac_prng.c:130:5:tc_hmac_prng_init	3
+../lib/source/hmac_prng.c:154:5:tc_hmac_prng_reseed	6
+../lib/source/hmac_prng.c:192:5:tc_hmac_prng_generate	7

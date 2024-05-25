@@ -1,0 +1,12 @@
+../Core/Src/main.c:245:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:284:12:UART_Write_Loop	24	static
+../Core/Src/main.c:329:26:write_data_to_flash_app	48	static
+../Core/Src/main.c:404:13:Firmware_Update	1056	static
+../Core/Src/main.c:271:5:__io_putchar	16	static
+../Core/Src/main.c:502:6:verify_firmware_signature	240	static
+../Core/Src/main.c:530:13:goto_application	88	dynamic,ignoring_inline_asm
+../Core/Src/main.c:569:6:Error_Handler	0	static,ignoring_inline_asm
+../Core/Src/main.c:179:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:212:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:142:6:SystemClock_Config	72	static
+../Core/Src/main.c:93:5:main	8	static

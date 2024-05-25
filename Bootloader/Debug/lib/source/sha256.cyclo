@@ -1,0 +1,5 @@
+../lib/source/sha256.c:170:28:BigEndian	1
+../lib/source/sha256.c:181:13:compress	3
+../lib/source/sha256.c:39:5:tc_sha256_init	2
+../lib/source/sha256.c:65:5:tc_sha256_update	6
+../lib/source/sha256.c:87:5:tc_sha256_final	5
